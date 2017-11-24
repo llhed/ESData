@@ -1,7 +1,7 @@
 # ESData
 The Demo of Elastic&amp;Kibana
 
-# ======================== Elasticsearch Configuration =========================
+#=============================ElasticsearchConfig==================================
 
 cluster.name: es_cluster    #集群名字
 node.name: node0            #节点名字
